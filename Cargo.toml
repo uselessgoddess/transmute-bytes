@@ -1,0 +1,16 @@
+[package]
+name = "transmute-bytes"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["uselessgoddess <dodickgod@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/uselessgoddess/transmute-bytes"
+homepage = "https://github.com/uselessgoddess/transmute-bytes"
+description = """
+Simple. Safe. From bytes without loss
+"""
+categories = ["algorithms", "encoding"]
+keywords = ["endian", "byte"]
+
